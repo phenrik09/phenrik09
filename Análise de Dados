@@ -1,14 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 28 11:25:45 2021
-
-@author: User
-"""
-
 import pandas as pd
 import plotly.express as px
 
-tabela = pd.read_csv(r"C:\Users\User\Documents\ENGENHARIA UERJ\Python\Curso Hashtag Lira\Aula 2\telecom_users.csv")
+tabela = pd.read_csv(r"local do arquivo") 
 
 print(tabela)
 
